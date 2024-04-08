@@ -2,7 +2,7 @@
 
 Getting started:
 
-1. Download ZIP file or use Git (recommended).
+1. Download [ZIP file](https://github.com/hielsnoppe/datascience-starter/archive/refs/heads/main.zip) or use Git (recommended).
 2. Open in VSCode using "File > Add Folder to Worspace"
 3. Right-click on project folder, then "Open in Integrated Terminal"
 
