@@ -1,0 +1,7 @@
+ipykernel
+numpy
+pandas
+pyreadr
+scipy
+seaborn
+statsmodels
